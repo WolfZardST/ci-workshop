@@ -1,5 +1,5 @@
 def display_menu():
-    print("Welcome!")
+    print("Welcome! :D")
     print("--------- Menu ---------")
     print("--- CHINESE FOOD ---")
     print("1. Kung Pao Chicken - $8")
